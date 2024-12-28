@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramachandran
-- 👀 I’m interested in iOS app development
-- 🌱 I’m currently learning Swift & SwiftUI
+- 👀 I’m interested in Flutter app development
+- 🌱 I’m currently learning Flutter & Dart
 - 📫 How to reach me: rajram92@hotmail.com
 - 😄 Pronouns: He/Him
 
